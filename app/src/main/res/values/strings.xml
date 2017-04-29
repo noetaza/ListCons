@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListCons</string>
+    <string name="btn1">LongClick</string>
+    <string name="btn2">OnTouch</string>
+    <string name="btn3">Deslizamiento</string>
+</resources>
